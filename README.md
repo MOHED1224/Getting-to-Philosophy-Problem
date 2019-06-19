@@ -9,4 +9,4 @@ The program should receive a Wikipedia link as an input (Usually use https://en.
 
 A "normal link" is a link from the main page article, not in a box, is blue (red is for non-existing articles), not in parentheses, not italic and not a footnote. print all visited links to the standard output.
 
-You can read more about it at https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy
+For more information about it visit: https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy
